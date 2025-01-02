@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Fitweather</string>
+    //-----------------------------------------------------
+    <string name="onboarding_button_next">İleri</string>
+    <string name="onboarding_button_back">Geri</string>
+    <string name="onboarding_button_start">Başla</string>
+    <string name="onboarding_first_title">Bugün Ne Giyeceksin ?</string>
+    <string name="onboarding_first_desc">Bazen bugün ne giyeceğimize karar vermek zor olabiliyor. Karar vermenize ve gününüzü stressiz hale getirmenize yardımcı olalım!</string>
+    <string name="onboarding_second_title">Hava Durumunu Kontrol Edin, Kıyafetinizi Seçin</string>
+    <string name="onboarding_second_desc">Uygulamamız hava durumuna göre mükemmel kıyafet kombinasyonları öneriyor, böylece her gün şık ve konforlu kalabilirsiniz!</string>
+    <string name="onboarding_third_title">Sizin İçin Bağlantılar Bıraktık</string>
+    <string name="onboarding_third_desc">Sevdiğiniz kıyafetlere ve benzer ürünlere basit bir bağlantıyla kolayca erişin, böylece en sevdiğiniz parçaları satın almak zahmetsiz hale gelsin</string>
+    <string name="onboarding_forth_title">Düşüncelerinizi Ekleyin</string>
+    <string name="onboarding_forth_desc">Yorum özelliğinizle görüşlerinizi ve geri bildirimlerinizi sorunsuz bir şekilde paylaşın</string>
+    <string name="onboarding_fifth_title">Hadi Başlayalım!</string>
+    <string name="onboarding_fifth_desc">Keşfetmeye ve başlamaya hazırsınız! Hadi başlayalım</string>
+    //----------------------------------------------------------
+    <string name="login_page_email_label">Email</string>
+    <string name="login_page_password_label">Şifre</string>
+    <string name="login_page_login_button_label">Giriş Yap</string>
+    <string name="login_page_goto_signup_text_label">Hesabınız yok mu? Kayıt Ol</string>
+    //--------------------------------------------------------------
+    <string name="signup_page_title">"Başlamak için bir Hesap Oluşturun"</string>
+    <string name="signup_page_email_label">Email</string>
+    <string name="signup_page_password_label">Şifre</string>
+    <string name="signup_page_signup_button_label">Kayıt Ol</string>
+    <string name="weather_details_text_field_label">Herhangi bir konumu arayın</string>
+    //----------------------------------------------------------------
+    <string name="weather_details_humidity_label">Nem</string>
+    <string name="weather_details_feels_like_label">Hissedilen Sıcaklık</string>
+    <string name="weather_details_wind_speed_label">Rüzgar Hızı</string>
+    <string name="weather_details_precipitation_label">Yağış Oranı</string>
+    <string name="weather_local_time_label">Yerel Saat</string>
+    <string name="weather_local_date_label">Tarih</string>
+    //---------------------------------------------------------
+    <string name="drop_down_menu_gender_label">Cinsiyet</string>
+    <string name="drop_down_menu_gender_male_label">Erkek</string>
+    <string name="drop_down_menu_gender_female_label">Kadın</string>
+    //---------------------------------------------------------
+    <string name="bottom_navigation_home_label">Ev</string>
+    <string name="bottom_navigation_favorites_label">Favoriler</string>
+    <string name="bottom_navigation_best_label">En Şık</string>
+    //---------------------------------------------------------
+    <string name="detail_page_title">Kıyafet Detay</string>
+    <string name="detail_page_top_link_label">👕 Üst Link</string>
+    <string name="detail_page_bottom_link_label">👖 Alt Link</string>
+    <string name="detail_page_text_field_label">Düşüncelerinizi Ekleyin..</string>
+
+
+
+</resources>
