@@ -33,7 +33,7 @@
     <string name="weather_local_time_label">Local Time</string>
     <string name="weather_local_date_label">Local Date</string>
     //---------------------------------------------------------
-    <string name="drop_down_menu_gender_label">Gender:</string>
+    <string name="drop_down_menu_gender_label">Gender</string>
     <string name="drop_down_menu_gender_male_label">Male</string>
     <string name="drop_down_menu_gender_female_label">Female</string>
     //---------------------------------------------------------
